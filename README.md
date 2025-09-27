@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yossef-cohen
-- 👀 I’m interested in creating games
-- 🌱 I’m currently looking for a job at the game indestry
+- 👀 I’m interested in creating games and cloud 
+- 🌱 I’m currently looking for a job at the game indestry or as DevSecOps 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me yossef187y@gmail.com
 - 😄 Pronouns: ...
